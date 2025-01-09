@@ -1,2 +1,3 @@
-# proyecto31
-Let's have a nice family vacation
+# Proyecto 31
+
+Lleva el registro de pagos para unas buenas vacaciones
