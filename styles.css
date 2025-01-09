@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+table {
+  width: 100%;
+  border: 1px solid gray;
+  border-spacing: 1px;
+}
+
+.participant {
+  background: #f0f0f0;
+  padding: .3em 1em;
+  text-transform: capitalize;
+}
+
+.row {
+  text-align: center;
+  background: #dadada;
+  font-size: small;
+}
+
+.paid {
+  background: #dcecdc;
+}
+
+.not-paid {
+  background: #fff5d6;
+}
